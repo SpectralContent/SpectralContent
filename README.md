@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SpectralContent
-- 👀 I’m interested in programming, optics, physics
+- 👀 I’m interested in programming, optics, and physics
 - 📫 SpectralContentYT@gmail.com
 
 <!---
